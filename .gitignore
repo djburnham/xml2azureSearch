@@ -1,8 +1,8 @@
-        .Python
-        .file.json.swp
-        .idea/
-        bin/
-        file.json
-        include/
-        lib/
-        pip-selfcheck.json
+.Python
+.file.json.swp
+.idea/
+bin/
+file.json
+include/
+lib/
+pip-selfcheck.json
